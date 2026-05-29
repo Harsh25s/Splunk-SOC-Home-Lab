@@ -150,4 +150,7 @@ Some real-world issues encountered and resolved:
 
 ---
 
-**Author:** [Your Name] | [LinkedIn URL]
+**Author:** Harsh Sharma | [www.linkedin.com/in/
+harsh-sharma-hs33
+Vanity URL name
+]
