@@ -150,6 +150,5 @@ Some real-world issues encountered and resolved:
 
 ---
 
-**Author:** Harsh Sharma | [www.linkedin.com/in/
-harsh-sharma-hs33
+**Author:** Harsh Sharma 
 ]
